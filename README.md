@@ -1,4 +1,4 @@
 FIFA 19 Analysis
 This is analysis for the complete FIFA 2019 player dataset available <br>
 
-![alt text](https://www.kaggleusercontent.com/kf/8536993/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..h6lg8NgVzdAnmiTneqRq1A.kjA8QlJ1WTIllmeNk6UhervOwl4IhdejF4YWANvaKaPnzmzgRHsRaM2X8IQwiq0fh_qg-bl_yRFwGUxiyZFsvTLV4V7uoflQmGKjhL5VcDv68P2IjA_YT6SIx2TH1bdZbO2OB_THpPA3sHtEJrxmPA.lmuYliAVNyeQpUl6BTWJUg/__results___files/__results___17_0.png)
+![alt text](https://imgur.com/a/SjADqJ8)
