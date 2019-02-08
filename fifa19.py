@@ -82,6 +82,7 @@ chosen_columns = [
 
 df = pd.DataFrame(df_fifa, columns = chosen_columns)
 df.sample(5)
+
 plt.rcParams['figure.figsize']=(25,16)
 hm=sns.heatmap(df[['Age', 'Overall', 'Potential', 'Value', 'Wage',
                 'Acceleration', 'Aggression', 'Agility', 'Balance', 'BallControl',
@@ -94,5 +95,9 @@ hm=sns.heatmap(df[['Age', 'Overall', 'Potential', 'Value', 'Wage',
                 'Volleys']].corr(), annot = True, linewidths=.5, cmap='Blues')
 hm.set_title(label='Heatmap of dataset', fontsize=30)
 hm;
+
+
+
+plt.scatter(df.Age.iloc[0:100],df.Strength.iloc[0:100]) #basic scatter plot for age vs strength
 
 plt.show()
