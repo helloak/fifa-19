@@ -4,3 +4,6 @@ This is analysis for the complete FIFA 2019 player dataset available <br>
 Below is the heatmap of the whole dataset <br>
 
 ![alt text](http://oi66.tinypic.com/2yugbqv.jpg)
+
+Below is the scatterplot of age and strength <br>
+![alt text](http://i65.tinypic.com/1qh2zk.png)
