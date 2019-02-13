@@ -7,3 +7,5 @@ Below is the heatmap of the whole dataset <br>
 
 Below is the scatterplot of age and strength <br>
 ![alt text](http://i65.tinypic.com/1qh2zk.png)
+<br>
+Next, we find the most overpaid and underpaid player(s) using the data we have
